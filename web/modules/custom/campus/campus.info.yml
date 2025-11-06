@@ -1,0 +1,16 @@
+name: Campus
+type: module
+core_version_requirement: '^10 || ^11'
+dependencies:
+  - ckeditor5
+  - editor
+  - field
+  - layout_builder
+  - media
+  - media_library
+  - menu_ui
+  - node
+  - path
+  - system
+  - text
+  - user
